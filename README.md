@@ -68,5 +68,5 @@ Para realizar o deploy, siga os passos:
 
 - Realize o deploy! 🚀
 
-🏆 Autor
+## 🏆 Autor
 Desenvolvido por **Geovanni Marques** 🚀
